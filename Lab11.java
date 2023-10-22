@@ -8,3 +8,4 @@ public class Lab11 {
         System.out.println("Дата сдачи задания : " +date);
     }
 }
+
